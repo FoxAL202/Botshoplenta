@@ -1,3 +1,3 @@
 
-BOT_TOKEN = 'your_bot_token_here'
-ADMIN_CHAT_ID = 123456789  # замените на свой Telegram user ID
+BOT_TOKEN = '7915480710:AAEIHJ7VfmXZU4ZEg8Lnl_5unDZTptaHTQY'
+ADMIN_CHAT_ID = 1158914693  # замените на свой Telegram user ID
